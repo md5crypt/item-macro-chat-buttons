@@ -1,0 +1,28 @@
+{
+	"title": "Item Macro Chat Buttons",
+	"description": "A plugin for the Item Macro module that allows adding buttons with custom handlers to item chat cards.",
+	"scripts": [
+		"index.js"
+	],
+	"url": "https://github.com/md5crypt/item-macro-chat-buttons",
+	"id": "item-macro-chat-buttons",
+	"authors": [
+		{
+			"name": "md5crypt",
+			"flags": {}
+		}
+	],
+	"compatibility": {
+		"minimum": "12",
+		"verified": "12.327"
+	},
+	"name": "item-macro-chat-buttons",
+	"version": "1.0.0",
+	"manifest": "https://github.com/md5crypt/item-macro-chat-buttons/releases/download/1.0.0/module.json",
+	"download": "https://github.com/md5crypt/item-macro-chat-buttons/releases/download/1.0.0/module.zip",
+	"relationships": {
+		"requires": [
+			{ "id": "itemacro", "type": "module" }
+		]
+	}
+}
